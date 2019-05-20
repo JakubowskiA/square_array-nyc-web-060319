@@ -4,4 +4,5 @@ squared = []
 array.each do |num|
   squared.push(num * num)
 end
+squared
 end
